@@ -1,17 +1,16 @@
 # Interview Questions
 ### Coupa first round
 
-Opps concept
-Polymorphism in details
-Tcp protocol
-Deadlock
-Unique email id entry in project
-Overloading and overriding
-Friend function
-Different database
-Oracle vs mysql
+Opps concept <br>
+Polymorphism in details <br>
+Tcp protocol <br>
+Deadlock <br>
+Unique email id entry in project <br>
+Overloading and overriding <br>
+Friend function <br>
+Different database <br>
+Oracle vs mysql <br>
 
-### cont.. 
 1 introduction
 2 overriding vs overloading
 3 inheritance
