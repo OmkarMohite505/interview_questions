@@ -99,7 +99,7 @@ R u sure ? Me: Yes
  8)Difference between constructors and destructors
 
 ### cont.. 
-Fortinet
+## Fortinet
 
 1st Interview
 
@@ -155,8 +155,7 @@ What is '?' in list
 
 Why we write static in public static void main
 
-### cont.. 
-*NeilsenIQ Interview Questions(Today)*
+ ## NeilsenIQ Interview Questions(Today)
 
 *OS & CN*
 1) What is OS and different types of OS?
@@ -186,3 +185,58 @@ Why we write static in public static void main
 16) How to would you traverse print linkedlist data in reverse order
 
 Followed by 3 HR questions
+
+## Nitor
+ Intro
+Explain project
+How you implemented jwt
+Diff between Authentication vs Authorization
+Inheritance
+Dynamic method dispatch
+Marker interface
+equals method and  == difference
+Swap to no w/o third var
+Shown one code and told what are errors in code
+
+2nd round
+Introduction
+Explain your project
+Some question on technology used for project
+How you managing state in react
+You website is not secure, why,
+Based on answers  some basic cross questions
+
+... End
+
+## Verifone
+Verifone 1 st round 
+1)intro and project in detail
+2)ask which lang u like
+3)static methods related 2 3 que back to back
+4)what is inheritance 
+5)Diff between abstract class and interface
+6)what is d use of interface
+7)string ,stringbuffer and stringbuilder
+8)string related scenario based que 
+9)WAP program for coun the occurrence of each word in the string (run successfully)
+10)WAP for cheaaking the string is palindrome or not(run successfully)
+11)diff between spring and spring boot
+12)springboot annotations
+13)restcontroller
+14)what is sql
+15)what is rdbms
+16what is diff between sql and mysql
+17)primary key?
+18)constraints 
+19)joins
+20)diff between relational database and no sql
+21)collection classes explaind
+22)exception handelling all que 
+When we will get file not found exception and 2 ,3 que more I don't remember
+23)Object class and methods
+24)serialization means what
+25)what is multritgreading
+26)Diff  between == mad equals method 
+And 2 3 que on string ....
+
+And overall iv was good
