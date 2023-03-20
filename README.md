@@ -11,15 +11,14 @@ Friend function <br>
 Different database <br>
 Oracle vs mysql <br>
 
-1 introduction
-2 overriding vs overloading
-3 inheritance
-4 friend function
-
-5 why Normalisation
-6 stored procedure
-7 indexing 
-8 constraints
+1 introduction  <br> 
+2 overriding vs overloading <br>
+3 inheritance <br>
+4 friend function <br>
+5 why Normalisation <br>
+6 stored procedure <br>
+7 indexing  <br>
+8 constraints <br>
 
 ### CDAC Noida Interview Questions  :*
 
